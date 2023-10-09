@@ -14,11 +14,11 @@ Built with
 
 Author
 
-- Frontend Mentor - @RalfiSlask
-- GitHub - https://github.com/RalfiSlask
+- Frontend Mentor - @Jordypx
+- GitHub - https://github.com/Jordypx
 
 Live server
 
-- https://ralfislask.github.io/Link-Sharing-App/
+- https://link-sharing-app-s501.onrender.com
 
 # Link-sharingApp
